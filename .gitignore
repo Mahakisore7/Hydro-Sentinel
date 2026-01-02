@@ -1,0 +1,7 @@
+venv/
+Code/Robot_Test/venv/
+
+__pycache__/
+*.pyc
+
+
